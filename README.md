@@ -125,8 +125,9 @@ Two predictive models were developed to assess vision correction needs:
 ## Web Application: ClarityCare
 
 **ClarityCare** is a Streamlit-based web app that makes the project accessible to users:
--**Application Walkthrough**: 
-   https://github.com/user-attachments/assets/dbae20f5-5044-4451-a944-4f52f1365bf9
+
+ -**Application Walkthrough**: 
+   - https://github.com/user-attachments/assets/dbae20f5-5044-4451-a944-4f52f1365bf9
 
 - **How It Works**:
   - Users answer 10 questions about their lifestyle (e.g., screen time, sleep hours).
