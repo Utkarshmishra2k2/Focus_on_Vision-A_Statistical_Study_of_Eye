@@ -129,7 +129,7 @@ Two predictive models were developed to assess vision correction needs:
  -**Application Walkthrough**: 
    - https://github.com/user-attachments/assets/dbae20f5-5044-4451-a944-4f52f1365bf9
 
--**App Link**[https://focus-on-vision-n2jaswf2zm8d9yttklxcr8.streamlit.app/]
+- **App Link**: [https://focus-on-vision-n2jaswf2zm8d9yttklxcr8.streamlit.app/](https://focus-on-vision-n2jaswf2zm8d9yttklxcr8.streamlit.app/)
 
 - **How It Works**:
   - Users answer 10 questions about their lifestyle (e.g., screen time, sleep hours).
@@ -169,12 +169,25 @@ Potential enhancements include:
 - **Clinical Validation**: Test the tool in real-world settings like clinics and schools.
 
 ---
+## File Structure
+focus-on-vision/
+├── app.py                # Streamlit Application
+├── data/                 # Datasets
+├── notebooks/            # Jupyter notebooks (EDA, Modeling)
+├── src/                  # Core scripts (preprocessing, modeling, utils)
+├── requirements.txt      # Python dependencies
+├── powerbi_report.pbix   # Power BI Report
+└── README.md             # This file
+
+---
 
 ## Installation and Usage
 
 To run this project locally:
 
-1. **Clone the Repository**:
+**Clone the Repository**:
    ```bash
    git clone https://github.com/Utkarshmishra2k2/Focus_on_Vision-A_Statistical_Study_of_Eye
    cd Focus_on_Vision-A_Statistical_Study_of_Eye
+
+---
