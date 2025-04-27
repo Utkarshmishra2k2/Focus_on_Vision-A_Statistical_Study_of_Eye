@@ -127,8 +127,12 @@ Two predictive models were developed to assess vision correction needs:
 **ClarityCare** is a Streamlit-based web app that makes the project accessible to users:
 -**Application Walkthrough**:
   -A demonstration video showcasing the functionality and features of the application will be provided here soon.
-   [![Datacynte Walkthrough](https://github.com/user-attachments/assets/1583ae94-9896-4596-9455-acbd377e80b8)
+   [![Datacynte Walkthrough](https://github.com/user-attachments/assets/e3343526-4834-4806-af61-f30828ccebcd)](https://github.com/user-attachments/assets/576c1a2d-dae3-4731-86af-ece6a6502e5a)
 
+
+
+
+   
 - **How It Works**:
   - Users answer 10 questions about their lifestyle (e.g., screen time, sleep hours).
   - Inputs are encoded, scaled, and fed into the logistic regression model.
