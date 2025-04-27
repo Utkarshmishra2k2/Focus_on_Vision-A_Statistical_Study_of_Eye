@@ -129,6 +129,8 @@ Two predictive models were developed to assess vision correction needs:
  -**Application Walkthrough**: 
    - https://github.com/user-attachments/assets/dbae20f5-5044-4451-a944-4f52f1365bf9
 
+-**App Link**[https://focus-on-vision-n2jaswf2zm8d9yttklxcr8.streamlit.app/]
+
 - **How It Works**:
   - Users answer 10 questions about their lifestyle (e.g., screen time, sleep hours).
   - Inputs are encoded, scaled, and fed into the logistic regression model.
