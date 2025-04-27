@@ -169,7 +169,20 @@ Potential enhancements include:
 - **Clinical Validation**: Test the tool in real-world settings like clinics and schools.
 
 ---
+## **Project Structure**
 
+```
+.   
+focus-on-vision/
+├── app.py                # Streamlit Application
+├── data/                 # Datasets
+├── notebooks/            # Jupyter notebooks (EDA, Modeling)
+├── src/                  # Core scripts (preprocessing, modeling, utils)
+├── requirements.txt      # Python dependencies
+├── powerbi_report.pbix   # Power BI Report
+└── README.md             # This file
+```
+---
 ## Installation and Usage
 
 To run this project locally:
