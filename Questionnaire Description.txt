@@ -1,4 +1,4 @@
-**Questionnaire Overview**
+Questionnaire Overview
 
 This structured questionnaire was meticulously crafted as a fundamental component of the project "Focus on Vision – A Statistical Study of Eye." It aims to collect comprehensive and diverse data on factors influencing vision health, encompassing demographic, lifestyle, environmental, hereditary, and behavioral dimensions.
 
@@ -6,90 +6,90 @@ The questionnaire is organized into eleven carefully designed sections to ensure
 
 ---
 
-**Section 1: Demographic Information**
-- **Age**: What is your age?
-- **Gender**: What is your gender?
-- **Occupation**: What is your current occupation?
-- **Education**: What is your highest level of education?
-- **District**: Which district do you reside in?
+Section 1: Demographic Information
+- Age: What is your age?
+- Gender: What is your gender?
+- Occupation: What is your current occupation?
+- Education: What is your highest level of education?
+- District: Which district do you reside in?
 
-**Section 2: Environmental and Lifestyle Factors**
-- **Living Environment**: What type of environment do you live in?
-- **Daily Screen Time**: How many hours do you spend on digital screens daily?
-- **Primary Device**: Which digital device do you use most frequently?
-- **Primary Screen Purpose**: What is the main purpose of your screen use?
+Section 2: Environmental and Lifestyle Factors
+- Living Environment: What type of environment do you live in?
+- Daily Screen Time: How many hours do you spend on digital screens daily?
+- Primary Device: Which digital device do you use most frequently?
+- Primary Screen Purpose: What is the main purpose of your screen use?
 
-**Section 3: Screen Usage Habits**
-- **Post-Screen Symptoms**: Do you experience symptoms such as eye strain, dryness, or headaches after prolonged screen use?
-- **Reading Medium**: What is your preferred medium for reading (physical books, e-books, etc.)?
-- **Daily Reading Hours**: How many hours per day do you spend reading?
-- **Use of Blue-Light Filter**: Do you utilize night mode or blue-light filtering on your devices?
-- **Preferred Display Mode**: Which display mode do you prefer: dark mode or light mode?
-- **Hours Using Dark/Light Theme**: How many hours do you spend using dark or light mode?
-- **Hours in Night Mode**: How many hours do you use devices in night mode daily?
+Section 3: Screen Usage Habits
+- Post-Screen Symptoms: Do you experience symptoms such as eye strain, dryness, or headaches after prolonged screen use?
+- Reading Medium: What is your preferred medium for reading (physical books, e-books, etc.)?
+- Daily Reading Hours: How many hours per day do you spend reading?
+- Use of Blue-Light Filter: Do you utilize night mode or blue-light filtering on your devices?
+- Preferred Display Mode: Which display mode do you prefer: dark mode or light mode?
+- Hours Using Dark/Light Theme: How many hours do you spend using dark or light mode?
+- Hours in Night Mode: How many hours do you use devices in night mode daily?
 
-**Section 4: Outdoor Activities and Exercise**
-- **Outdoor Activities**: Do you participate in outdoor activities?
-- **Weekly Outdoor Hours**: How many hours weekly do you spend outdoors in natural light?
-- **Exercise Frequency**: How often do you engage in physical exercise?
-- **Sunglasses Usage**: Do you regularly wear sunglasses outdoors?
+Section 4: Outdoor Activities and Exercise
+- Outdoor Activities: Do you participate in outdoor activities?
+- Weekly Outdoor Hours: How many hours weekly do you spend outdoors in natural light?
+- Exercise Frequency: How often do you engage in physical exercise?
+- Sunglasses Usage: Do you regularly wear sunglasses outdoors?
 
-**Section 5: Workspace and Sleep Hygiene**
-- **Workspace Lighting Conditions**: What are the lighting conditions in your workspace or reading area?
-- **Breaks During Prolonged Activities**: Do you take regular breaks during extended screen time or reading?
-- **Average Sleep Duration**: How many hours of sleep do you get on average each night?
-- **Device Usage Before Bed**: Do you use digital devices within an hour of bedtime? If yes, for how long?
+Section 5: Workspace and Sleep Hygiene
+- Workspace Lighting Conditions: What are the lighting conditions in your workspace or reading area?
+- Breaks During Prolonged Activities: Do you take regular breaks during extended screen time or reading?
+- Average Sleep Duration: How many hours of sleep do you get on average each night?
+- Device Usage Before Bed: Do you use digital devices within an hour of bedtime? If yes, for how long?
 
-**Section 6: Dietary and Environmental Factors**
-- **Consumption of Eye-Healthy Foods**: How often do you consume foods rich in nutrients beneficial for eye health (e.g., carrots, spinach, fish)?
-- **Air Quality Assessment**: How would you describe the air quality in your living area?
-- **Smoking Status**: Do you currently smoke?
+Section 6: Dietary and Environmental Factors
+- Consumption of Eye-Healthy Foods: How often do you consume foods rich in nutrients beneficial for eye health (e.g., carrots, spinach, fish)?
+- Air Quality Assessment: How would you describe the air quality in your living area?
+- Smoking Status: Do you currently smoke?
 
-**Section 7: Vision Correction and Eye Care**
-- **Use of Vision Correction Tools**: Do you currently use spectacles or contact lenses?
-- **Age at Vision Correction Onset**: At what age did you begin wearing spectacles or lenses?
-- **Current Left Eye Power**: What is your left eye's prescription?
-- **Current Right Eye Power**: What is your right eye's prescription?
-- **Reason for Vision Correction**: Why did you start wearing spectacles or contact lenses?
-- **Tiredness After Screen Use**: Do you feel fatigued after extended reading or screen exposure?
-- **Onset Time for Discomfort**: After how long do you start feeling discomfort while using screens?
-- **Eye Specialist Checkup Frequency**: How often do you consult an eye specialist?
-- **Self-Care Eye Practices**: What measures do you take for eye care?
-- **Future Vision Correction Plans**: Are you considering any corrective procedures in the future?
+Section 7: Vision Correction and Eye Care
+- Use of Vision Correction Tools: Do you currently use spectacles or contact lenses?
+- Age at Vision Correction Onset: At what age did you begin wearing spectacles or lenses?
+- Current Left Eye Power: What is your left eye's prescription?
+- Current Right Eye Power: What is your right eye's prescription?
+- Reason for Vision Correction: Why did you start wearing spectacles or contact lenses?
+- Tiredness After Screen Use: Do you feel fatigued after extended reading or screen exposure?
+- Onset Time for Discomfort: After how long do you start feeling discomfort while using screens?
+- Eye Specialist Checkup Frequency: How often do you consult an eye specialist?
+- Self-Care Eye Practices: What measures do you take for eye care?
+- Future Vision Correction Plans: Are you considering any corrective procedures in the future?
 
-**Section 8: Corrective Procedures**
-- **Undergoing Vision Correction Surgery**: Have you undergone procedures like LASIK or laser surgery?
-- **Type of Procedure**: What specific corrective procedure did you undergo?
-- **Age at Time of Procedure**: At what age did you undergo the surgery or start therapy?
-- **Surgical Outcome**: Was the procedure effective in addressing your vision issues?
+Section 8: Corrective Procedures
+- Undergoing Vision Correction Surgery: Have you undergone procedures like LASIK or laser surgery?
+- Type of Procedure: What specific corrective procedure did you undergo?
+- Age at Time of Procedure: At what age did you undergo the surgery or start therapy?
+- Surgical Outcome: Was the procedure effective in addressing your vision issues?
 
-**Section 9: Family Vision History**
-- **Parental Vision Problems**: Have your parents experienced vision problems?
-- **Affected Parent(s)**: Which parent has or had vision problems?
-- **Parent's Vision Correction Tools**: What vision aids have your parents used?
-- **Type of Parental Vision Issue**: What vision problems did they experience?
-- **Father's Correction Age**: At what age did your father start using vision aids?
-- **Mother's Correction Age**: At what age did your mother start using vision aids?
+Section 9: Family Vision History
+- Parental Vision Problems: Have your parents experienced vision problems?
+- Affected Parent(s): Which parent has or had vision problems?
+- Parent's Vision Correction Tools: What vision aids have your parents used?
+- Type of Parental Vision Issue: What vision problems did they experience?
+- Father's Correction Age: At what age did your father start using vision aids?
+- Mother's Correction Age: At what age did your mother start using vision aids?
 
-**Section 10: Relatives' Vision Health**
-- **Relatives with Vision Issues**: Have any close relatives faced vision problems?
-- **Affected Relative(s)**: Which relative(s) were affected?
-- **Relative's Vision Correction Tools**: What corrective tools do they use?
-- **Type of Relative's Vision Issue**: What specific vision issues have they faced?
-- **Relative's Correction Age**: At what age did they start using corrective measures?
+Section 10: Relatives' Vision Health
+- Relatives with Vision Issues: Have any close relatives faced vision problems?
+- Affected Relative(s): Which relative(s) were affected?
+- Relative's Vision Correction Tools: What corrective tools do they use?
+- Type of Relative's Vision Issue: What specific vision issues have they faced?
+- Relative's Correction Age: At what age did they start using corrective measures?
 
-**Section 11: Children's Vision Health**
-- **Children's Vision Problems**: Do your children have any vision issues?
-- **Type of Children's Vision Problems**: What types of problems have been diagnosed?
-- **Age at Diagnosis**: At what age were your children diagnosed?
-- **Children's Vision Correction Tools**: Are they using any corrective tools?
-- **Children's Daily Screen Time**: How much screen time do your children have daily?
-- **Children's Outdoor Activity Time**: How much time do your children spend outdoors daily?
-- **Parental Impact on Children's Eye Health**: Do you believe your vision issues have influenced your children's eye health?
-- **Preventive Measures for Children's Vision**: What preventive steps have you taken for your children's vision care?
+Section 11: Children's Vision Health
+- Children's Vision Problems: Do your children have any vision issues?
+- Type of Children's Vision Problems: What types of problems have been diagnosed?
+- Age at Diagnosis: At what age were your children diagnosed?
+- Children's Vision Correction Tools: Are they using any corrective tools?
+- Children's Daily Screen Time: How much screen time do your children have daily?
+- Children's Outdoor Activity Time: How much time do your children spend outdoors daily?
+- Parental Impact on Children's Eye Health: Do you believe your vision issues have influenced your children's eye health?
+- Preventive Measures for Children's Vision: What preventive steps have you taken for your children's vision care?
 
 ---
 
-**Conclusion**
+Conclusion
 
 This questionnaire serves as a comprehensive foundation for identifying patterns, correlations, and risk factors influencing eye health in today's digitally connected and urbanized society. The insights derived from the responses support the overarching goal of promoting better vision care practices.
