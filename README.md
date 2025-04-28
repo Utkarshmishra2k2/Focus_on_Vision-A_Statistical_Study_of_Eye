@@ -117,7 +117,7 @@ Two predictive models were developed to assess vision correction needs:
   - Epochs: 100 with early stopping.
 - **Performance**:
   - Accuracy: 86.93%.
-  - AUC: 0.6335 (good class separation).
+  - AUC: 0.8081 (good class separation).
   - Log Loss: 0.4961 (well-calibrated probabilities).
 
 ---
